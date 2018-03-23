@@ -3,12 +3,7 @@ localStorage.activated = "true";
 chrome.tabs.onUpdated.addListener(function (id, info, tab) {
 
     var bool = localStorage.activated;
-    var redir = "https://plugtopus.agency";
-    if (tab.url.toLowerCase().indexOf("Блокировщик Соц-Сетей") !== -1) {
-        chrome.tabs.update(tab.id, {
-            url: redir
-        });
-    }
+	
     if (bool.indexOf("true") > -1) {
         if (tab.url.toLowerCase().indexOf("facebook.com/") !== -1) {
             chrome.tabs.remove(tab.id);
