@@ -10,13 +10,14 @@
     },
     "homepage_url": "https://plugtopus.agency",
     "description": "__MSG_desc__",
-    "default_locale": "ru",
+    "default_locale": "en_US",
     "icons": {
         "128": "icon/icon128.png"
     },
     "manifest_version": 2,
     "name": "__MSG_name__",
+    "short_name": "__MSG_shortname__",
     "permissions": ["tabs", "\u003Call_urls>", "cookies", "storage"],
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "version": "2018.3.23.1"
+    "version": "2018.07.05.1"
 }
