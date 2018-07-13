@@ -2,58 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e5761e7-fb58-4f5b-a101-94efb6e78637" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_locales/am/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ar/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/bg/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/bn/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ca/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/cs/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/da/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/de/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/el/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/en_GB/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/en_US/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/es/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/es_419/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/et/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/fa/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/fi/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/fil/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/fr/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/gu/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/he/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/hi/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/hr/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/hu/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/id/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/it/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ja/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/kn/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ko/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/lt/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/lv/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ml/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ms/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/nb/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/nl/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/pl/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/pt_BR/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/pt_PT/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ro/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/sk/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/sl/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/sr/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/sv/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/sw/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/ta/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/te/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/th/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/tr/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/uk/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/vi/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/zh_CN/messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_locales/zh_TW/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/am/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/am/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ar/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ar/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/bg/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/bg/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/bn/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/bn/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ca/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ca/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/cs/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/cs/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/da/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/da/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/de/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/de/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/el/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/el/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/en_GB/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/en_GB/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/en_US/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/en_US/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/es/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/es/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/es_419/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/es_419/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/et/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/et/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/fa/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/fa/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/fi/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/fi/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/fil/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/fil/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/fr/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/fr/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/gu/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/gu/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/he/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/he/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/hi/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/hi/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/hr/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/hr/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/hu/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/hu/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/id/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/id/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/it/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/it/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ja/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ja/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/kn/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/kn/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ko/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ko/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/lt/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/lt/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/lv/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/lv/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ml/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ml/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ms/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ms/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/nb/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/nb/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/nl/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/nl/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/pl/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/pl/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/pt_BR/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/pt_BR/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/pt_PT/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/pt_PT/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ro/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ro/messages.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_locales/ru/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ru/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/sk/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/sk/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/sl/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/sl/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/sr/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/sr/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/sv/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/sv/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/sw/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/sw/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/ta/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/ta/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/te/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/te/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/th/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/th/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/tr/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/tr/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/uk/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/uk/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/vi/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/vi/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/zh_CN/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/zh_CN/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_locales/zh_TW/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/_locales/zh_TW/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/options.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/redir.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/redir.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,12 +68,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="170">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -77,8 +81,8 @@
       <file leaf-file-name="messages.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_locales/ru/messages.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -91,10 +95,12 @@
       <find>CCCCCCC</find>
       <find>BBBBBBB</find>
       <find>AAAAAAA</find>
+      <find>Social-Network Blocker</find>
     </findStrings>
     <replaceStrings>
       <replace>This extension allows you to block social networks VK, Facebook and others in your browser</replace>
       <replace>Social-Network Blocker</replace>
+      <replace>Block Social-Network</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -103,10 +109,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/manifest.json" />
-        <option value="$PROJECT_DIR$/_locales/ru/messages.json" />
         <option value="$PROJECT_DIR$/_locales/am/messages.json" />
+        <option value="$PROJECT_DIR$/_locales/ru/messages.json" />
         <option value="$PROJECT_DIR$/_locales/en_US/messages.json" />
+        <option value="$PROJECT_DIR$/_locales/en_GB/messages.json" />
+        <option value="$PROJECT_DIR$/manifest.json" />
       </list>
     </option>
   </component>
@@ -119,7 +126,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="365" />
     <option name="y" value="7" />
     <option name="width" value="904" />
@@ -130,18 +137,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="social_blocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="social_blocker" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,34 +189,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530766300469</updated>
-      <workItem from="1530766301872" duration="907000" />
+      <workItem from="1530766301872" duration="1534000" />
+      <workItem from="1530855203862" duration="619000" />
+      <workItem from="1531474509109" duration="491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="907000" />
+    <option name="totallyTimeSpent" value="2644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -217,10 +231,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_locales/en_US/messages.json">
+    <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_locales/ru/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_locales/ru/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -231,17 +266,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/redir.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_locales/en_US/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_locales/en_GB/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_locales/ru/messages.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>

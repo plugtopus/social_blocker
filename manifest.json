@@ -1,14 +1,12 @@
 {
-    "author": "Plugtopus Agency",
     "background": {
         "persistent": true,
-        "scripts": ["js/redir.js"]
+        "scripts": ["scripts/redir.js"]
     },
     "browser_action": {
         "default_icon": "icon/icon.png",
         "default_title": "__MSG_title__"
     },
-    "homepage_url": "https://plugtopus.agency",
     "description": "__MSG_desc__",
     "default_locale": "en_US",
     "icons": {
@@ -19,5 +17,5 @@
     "short_name": "__MSG_shortname__",
     "permissions": ["tabs", "\u003Call_urls>", "cookies", "storage"],
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "version": "2018.07.05.1"
+    "version": "2018.07.13.1"
 }
