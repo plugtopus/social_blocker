@@ -32,6 +32,9 @@ chrome.tabs.onUpdated.addListener(function (id, info, tab) {
         if (tab.url.toLowerCase().indexOf("vk.com/") !== -1) {
             chrome.tabs.remove(tab.id);
         }
+        if (tab.url.toLowerCase().indexOf("ok.ru/") !== -1) {
+            chrome.tabs.remove(tab.id);
+        }
 
         chrome.browserAction.setIcon({
             path: {

@@ -17,5 +17,5 @@
     "short_name": "__MSG_shortname__",
     "permissions": ["tabs", "\u003Call_urls>", "cookies", "storage"],
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "version": "2018.07.13.1"
+    "version": "2018.07.13.2"
 }
